@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and MERN Stack**
 
-- 👯 I’m looking to collaborate on **Backend Project**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manishthakur99](https://github.com/Manishthakur99)
 
