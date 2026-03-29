@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Backend & Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manishthakur99](https://github.com/Manishthakur99)
+- 👨‍💻 All of my projects are available at [https://github.com/Manishthakur99](https://github.com/Manishthakur99?tab=repositories)
 
 - 💬 Ask me about **Frontend and Backend Development**
 
