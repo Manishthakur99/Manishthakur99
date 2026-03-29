@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manish Thakur</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="coding" width="300px" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
 - 🔭 I’m currently working on [Xapel](https://github.com/Manishthakur99/Xapel)
 
