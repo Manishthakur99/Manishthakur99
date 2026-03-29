@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="300px" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
-<br/>
+
+
 - 🔭 I’m currently working on [Xapel](https://github.com/Manishthakur99/Xapel)
 
 - 🌱 I’m currently learning **Java and Spring Boot**
