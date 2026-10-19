@@ -1,8 +1,8 @@
-## Manish Thakur
+<h3 align="center">I build software which creates impact and hence imma impact kid</h3>
 
-Software Engineer building production agentic systems, enterprise RAG pipelines, and full-stack cloud architectures. I write decoupled backends, semantic retrieval systems, and policy-governed LLM workflows in Python, TypeScript, Node.js, and Java.
-
-If you're building systems, exploring agentic AI, or want to collaborate on open-source projects, feel free to reach out. Happy to connect.
+- ⚡Checkout my Recent Project : [Secure EHR Insight Clinical validator]([https://www.linkedin.com/feed/update/urn:li:activity:7221023665876795392](https://www.linkedin.com/posts/manishthakur02_healthcareai-machinelearning-genai-ugcPost-7511063993919307777-s6o2/?highlightedUpdateUrn=urn%3Ali%3AugcPost%3A7511063993919307777&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZk3TABBNbryPHfHyGMgFbDvrHq42sjclc))
+    
+- 📫 How to reach me : thakurify@gmail.com / [LinkedIn](https://www.linkedin.com/in/manishthakur02/)
 
 ---
 
@@ -61,19 +61,6 @@ If you're building systems, exploring agentic AI, or want to collaborate on open
 
 ---
 
-### Interests
-
-- Multi-agent systems, cyclic reasoning graphs (LangGraph), and autonomous agent evaluation environments
-- LLM internals, Transformer architectures, attention mechanisms, and model pre-training (`nanoGPT`)
-- Enterprise RAG systems, vector databases (Qdrant, pgvector), and local semantic reranking
-- Zero-trust clinical architectures, in-memory PHI de-identification, and policy guardrails
-- Multimodal AI, conversational voice assistants, and computer vision safety systems
-- Full-stack cloud platforms, decoupled microservices, and serverless GCP infrastructure
-- AI/ML, Large Language Models (LLMs), and Graphic Designing
-
-
----
-
 <details>
 <summary><b>GitHub Stats</b></summary>
 <br>
@@ -88,6 +75,3 @@ If you're building systems, exploring agentic AI, or want to collaborate on open
 
 ---
 
-<sub>
-  <a href="https://linkedin.com/in/manishthakur02">LinkedIn</a> · <a href="mailto:thakurify@gmail.com">Email</a> · <a href="https://bramble-ai-app-builder.vercel.app">Bramble AI</a>
-</sub>
