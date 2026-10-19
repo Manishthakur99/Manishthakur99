@@ -1,6 +1,6 @@
 <h3 align="center">I build software which creates impact and hence imma impact kid</h3>
 
-- ⚡Checkout my Recent Project : [Secure EHR Insight Clinical validator]([https://www.linkedin.com/feed/update/urn:li:activity:7221023665876795392](https://www.linkedin.com/posts/manishthakur02_healthcareai-machinelearning-genai-ugcPost-7511063993919307777-s6o2/?highlightedUpdateUrn=urn%3Ali%3AugcPost%3A7511063993919307777&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZk3TABBNbryPHfHyGMgFbDvrHq42sjclc))
+- ⚡Checkout my Recent Project : [Secure EHR Insight Clinical validator](https://www.linkedin.com/posts/manishthakur02_healthcareai-machinelearning-genai-ugcPost-7511063993919307777-s6o2/?highlightedUpdateUrn=urn%3Ali%3AugcPost%3A7511063993919307777&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZk3TABBNbryPHfHyGMgFbDvrHq42sjclc)
     
 - 📫 How to reach me : thakurify@gmail.com / [LinkedIn](https://www.linkedin.com/in/manishthakur02/)
 
